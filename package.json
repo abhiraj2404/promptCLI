@@ -1,0 +1,17 @@
+{
+  "name": "10chat_prompt_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "enquirer": "^2.4.1",
+    "figlet": "^1.8.0"
+  }
+}
